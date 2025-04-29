@@ -77,7 +77,7 @@ const Navbar = () => {
             </Button>
             
             <Button asChild>
-              <a href="/Mohamed_CV.pdf" download className="bg-primary hover:bg-primary/90">
+              <a href="/Firas-Ayadi-GL.pdf" download className="bg-primary hover:bg-primary/90">
                 Download CV
               </a>
             </Button>

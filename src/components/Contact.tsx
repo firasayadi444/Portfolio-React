@@ -155,7 +155,7 @@ const Contact = () => {
                   <div className="flex items-center">
                     <Linkedin className="h-5 w-5 mr-3 text-primary" />
                     <a 
-                      href="https://linkedin.com/in/yourusername" 
+                      href="https://www.linkedin.com/in/firas-ayadi2/" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="hover:text-primary"
