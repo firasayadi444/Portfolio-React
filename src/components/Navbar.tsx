@@ -111,7 +111,7 @@ const Navbar = () => {
                 </a>
               ))}
               <Button asChild className="w-full mt-2">
-                <a href="/Mohamed_CV.pdf" download>Download CV</a>
+                <a href="/Firas-Ayadi-GL.pdf" download>Download CV</a>
               </Button>
             </nav>
           </div>

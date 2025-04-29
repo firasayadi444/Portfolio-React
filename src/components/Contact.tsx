@@ -160,7 +160,7 @@ const Contact = () => {
                       rel="noopener noreferrer"
                       className="hover:text-primary"
                     >
-                      linkedin.com/in/yourusername
+                      linkedin.com/in/firas-ayadi2
                     </a>
                   </div>
                 </div>
@@ -179,7 +179,7 @@ const Contact = () => {
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
-                    Schedule a Meeting
+                    Schedule a Meeting Not working Yet !
                   </a>
                 </Button>
               </CardContent>
